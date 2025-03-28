@@ -4866,6 +4866,274 @@ de-CH:
         - Parsec
         - Kiloparsec
         - Megaparsec
+    mountain:
+      name:
+        - Albis
+        - Aletschhorn
+        - Allalinhorn
+        - Alperschällihorn
+        - Alphubel
+        - Altels
+        - Altenalptürm
+        - Altmann
+        - Alvier
+        - Aubrig
+        - Bächenstock
+        - Bachtel
+        - Badus
+        - Balmhorn
+        - Bella Tola
+        - Bellavista
+        - Bietschhorn
+        - Bifertenstock
+        - Blüemlisalp
+        - Blüemlisalp Rothorn
+        - Born
+        - Bös Fulen
+        - Breithorn BE/VS
+        - Breithorn VS
+        - Brienzer Rothorn
+        - Brisen
+        - Brisi
+        - Brünnelistock
+        - Bruschghorn
+        - Burgfeldstand
+        - Haldensteiner Calanda
+        - Camoghè
+        - Castor
+        - Chasseral
+        - Chasseron
+        - Chli Rinderhorn
+        - Chli Windgällen
+        - Chöpfenberg
+        - Chrüzberg
+        - Chumigalm
+        - Clariden
+        - Dammastock
+        - Daubenhorn
+        - Dent Blanche
+        - Dent de Vaulion
+        - Dent du Salantin
+        - Dents du Midi
+        - Dirruhorn
+        - Doldenhorn
+        - Dom
+        - Dreieckhorn
+        - Dufourspitze
+        - Eiger
+        - Engelberger Rotstock
+        - Etzel
+        - Faulhorn
+        - Fänerenspitz
+        - Fellihorn
+        - Felsberger Calanda
+        - Fil de Cassons
+        - Finsteraarhorn
+        - Fisistock, Innerer
+        - Fronalpstock
+        - Frümsel
+        - Furggelenstock
+        - Gäbris
+        - Gauschla
+        - Bächistock
+        - Glishorn
+        - Gonzen
+        - Grand Combin
+        - Gspaltenhorn
+        - Günerhorn
+        - Gwächtenhorn
+        - Gurten
+        - Hahnen
+        - Hasenmatt
+        - Hausstock
+        - Hinterrugg
+        - Hochflue (Rigi)
+        - Hoher Hirschberg
+        - Hochwang
+        - Hoch Geissberg
+        - Hochhus
+        - Hochstollen
+        - Hoh Brisen
+        - Hoher Kasten
+        - Hohgant
+        - Hundwiler Höhi
+        - Hundstein
+        - Hüser
+        - Jakobshorn
+        - Jungfrau
+        - Irchel
+        - Kamor
+        - Kronberg
+        - La Dôle
+        - Lägern
+        - Lagginhorn
+        - Leistchamm
+        - Le Rubli
+        - Les Diablerets
+        - Liskamm
+        - Ludwigshöhe
+        - Marwees
+        - Matterhorn
+        - Moléson
+        - Mönch
+        - Montalin
+        - Basòdino
+        - Monte Generoso
+        - Monte Leone
+        - Monte San Giorgio
+        - Monte San Salvatore
+        - Monte Tamaro
+        - Mont Tendre
+        - Morgenberghorn
+        - Morgenhorn
+        - Mürtschenstock
+        - Grosser Mythen
+        - Kleiner Mythen
+        - Nadelhorn
+        - Napf
+        - Namenlos
+        - Nesthorn
+        - Nidfurner Turm
+        - Niederbauen Kulm
+        - Niederhorn
+        - Niesen
+        - Nünalphorn
+        - Oberbauenstock
+        - Oberalpstock
+        - Oberhorn
+        - Oeschinenhorn
+        - Ofen
+        - Olmenhorn
+        - Ortstock
+        - Parrotspitze
+        - Pfannenstiel
+        - Pilatus
+        - Plattenflue
+        - Piz Arblatsch
+        - Piz Argient
+        - Piz Bernina
+        - Piz Beverin
+        - Piz Buin
+        - Piz Caschleglia
+        - Piz Curvér
+        - Piz Daint
+        - Piz Dolf
+        - Piz Ela
+        - Piz Fess
+        - Piz Forbesch
+        - Piz Kesch
+        - Piz Medel
+        - Piz Morteratsch
+        - Piz Mitgel
+        - Piz Mundaun
+        - Piz Nair
+        - Piz Palü
+        - Piz dal Päl
+        - Piz Riein
+        - Piz Roseg
+        - Piz Segnas
+        - Piz Sardona
+        - Piz Sezner
+        - Piz Signina
+        - Piz Surlej
+        - Piz Tarantschun
+        - Piz Terri
+        - Piz Toissa
+        - Piz Tomül
+        - Piz Uccello
+        - Piz Varuna
+        - Piz Zupò
+        - Pizzo Badile
+        - Pizzo Campo Tencia
+        - Pizzo Tambo/Tambohorn
+        - Planggenstock
+        - Rautispitz
+        - Regitzer Spitz
+        - Rheinwaldhorn
+        - Rienzenstock
+        - Rigi-Kulm
+        - Rinderhorn
+        - Rossberg
+        - Röti (Weissenstein)
+        - Ruchen (Belchenfluh)
+        - Salbitschijen
+        - Säntis
+        - Schäfler
+        - Schafberg
+        - Gross Schärhorn
+        - Schesaplana
+        - Schibenstoll
+        - Schiahorn
+        - Schilthorn
+        - Schinberg
+        - Schlüechtli
+        - Schrattenfluh
+        - Schreckhorn
+        - Selun
+        - Schwalmis
+        - Schwarzeberg
+        - Sichelchamm
+        - Sieben Hengste
+        - Signalkuppe
+        - Sigriswiler Rothorn
+        - Silvrettahorn
+        - Six Madun
+        - Speer
+        - Spitzmeilen
+        - Stanserhorn
+        - Stockhorn
+        - Sustenhorn
+        - Taminser Calanda
+        - Täschhorn
+        - Tinzenhorn
+        - Titlis
+        - Tödi
+        - Tomlishorn
+        - Tour Sallière
+        - Tschingelhörner
+        - Tweralpspitz
+        - Uetliberg
+        - Vanil Noir
+        - Vorderglärnisch
+        - Vrenelisgärtli
+        - Wasenhorn
+        - Weisshorn
+        - Weissmies
+        - Wetterhorn
+        - Wildhorn
+        - Wildstrubel
+        - Gross Windgällen
+        - Wiriehore
+        - Wissberg
+        - Wissigstock
+        - Wyssi Frau
+        - Zervreilahorn
+        - Zinalrothorn
+        - Zindlenspitz
+        - Zuestoll
+        - Zumsteinspitze
+      range:
+        - Aletschgebiet
+        - Alpstein
+        - Churfirsten
+        - Diemtigtal
+        - Emmentaler Alpen
+        - Engadin
+        - Gantrisch-Gebiet
+        - Glarner Alpen
+        - Gotthardmassiv
+        - Jungfraugebiet
+        - Jura
+        - Lepontinische Alpen
+        - Mischabelgruppe
+        - Rätikon
+        - Saanenland
+        - Schwyzer Alpen
+        - Tessiner Alpen
+        - Urner Alpen
+        - Voralpen
+        - Walliser Alpen
+        - Zürcher Oberland
     music:
       instruments:
         - Akkordeon
